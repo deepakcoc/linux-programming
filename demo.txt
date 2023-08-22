@@ -1,2 +1,2 @@
 hiiii i am using git
-hiii i am using file from branch
+ i am using file from branch
