@@ -1,2 +1,4 @@
 hiiii i am using git
- i am using file from branch
+<<<<<<< .mine i am using file from branch
+=======hiii i am using file from branch....
+>>>>>>> .theirs
