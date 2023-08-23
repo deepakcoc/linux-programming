@@ -1,3 +1,6 @@
 hiiii i am using git
-hiii i am using file from branch
-hiii i am using again git hub
+i am using file from branch
+i am using again git hub
+<<<<<<< .minehiii i am using again git hub
+==============hiii i am using file from branch....
+>>>>>>> .theirs>>>>>>> .theirs
